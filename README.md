@@ -8,7 +8,7 @@ I’m a Data Science Specialist with a passion for Education, sports and life-lo
 - **Databases:** MongoDB, MySQL, PostgreSQL
 - **Data Analysis:** Pandas, GeoPandas, NumPy, Tidyr, Dplyr
 - **Data Visualization:** Altair, Matplotlib, Dash, ggplot2, Shiny
-- **Machine Learning:** Supervised Learning (Classification, Regression), Unsupervised Learning, Time Series Analysis, Clustering, Feature Selection and Engineering, Dimensionality Reduction
+- **Machine Learning:** Supervised Learning, Unsupervised Learning, Classification, Regression, Time Series Analysis, Clustering, Feature Selection and Engineering, Dimensionality Reduction
 - **Statistics:** Bayesian and Frequentist Methodologies, Hypothesis Testing, A/B Testing, Causal Inference, Regression Analysis
 - **Other Tools:** Git, GitHub Actions, Jupyter Notebook, VSCode, RStudio, Docker, AWS
 
@@ -17,6 +17,8 @@ I’m a Data Science Specialist with a passion for Education, sports and life-lo
 If you have any questions or ideas for collaboration, I’d love to connect! Feel free to reach out via [Linkedin](https://linkedin.com/in/nicolebidwell) or my [contact form](https://nicolebid.github.io/#contact) on my website.
 
 ## 🔍 Project Summary Table 
+
+This table showcases my key projects, detailing the technologies utilized and their specific focus areas within data science.
 
 | Project       | Description                          | Focus Area         | Main Tools/Libraries      | Completion Date (YYYY-MM)       | Link                        |
 |:-------------:|:------------------------------------:|:--------------------:|:----------------------------:|:------------:|:---------------------------:|
