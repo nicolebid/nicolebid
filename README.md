@@ -20,7 +20,7 @@ If you have any questions or ideas for collaboration, I’d love to connect! Fee
 
 This table showcases my key projects, detailing the technologies utilized and their specific focus areas within data science.
 
-| Project       | Description                          | Focus Area         | Main Tools/Libraries      | Completion Date (YYYY-MM)       | Link                        |
+| Project       | Description                          | Focus Area         | Main Tools/Libraries      | Completion Date <br> (YYYY-MM)       | Link                        |
 |:-------------:|:------------------------------------:|:--------------------:|:----------------------------:|:------------:|:---------------------------:|
 | Airbnb Analysis   | A machine learning project predicting listing prices based on property features, offering insights into the key factors that drive Airbnb pricing trends.   | Machine Learning, Regression Analysis, EDA, Feature Engineering, Model Interpretability  | Python, NumPy, Pandas, Altair, scikit-learn, SHAP, XGBoost, LightGBM, joblib          | 2024-09   |  [Repo](https://github.com/MoNorouzi23/Airbnb_analysis/tree/main)<br><br>[Report](https://github.com/MoNorouzi23/Airbnb_analysis/blob/main/Airbnb_analysis_report_copy.pdf) |
 | Leveraging the Power of AI in Education: Insider Perspectives and Practices   | An article discussing educator perspectives on AI in education, containing my insights paired with survey-based results of effective implementations and concerns.   | AI in Education  | N/A      | 2024-08   |  [Medium Article](https://medium.com/@nrbidwell/leveraging-the-power-of-ai-in-education-insider-perspectives-and-practices-0679cb21d467) |
