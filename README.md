@@ -1,7 +1,7 @@
 # Hi there, I'm Nicole! 👋
 
 ## 📋 About Me
-I’m a Data Science Specialist with a passion for Education, sports and life-long learning. You can learn more about me and view my featured work on my website, [nicolebid.github.io](https://nicolebid.github.io), and check out my project summary table below for more insight into my projects.
+I’m a Data Science Specialist with a passion for Education, sports and life-long learning. You can learn more about me and view my featured work on my website, [nicolebid.github.io](https://nicolebid.github.io), and check out my project summary table below for more insight into projects I've done.
 
 ## 🛠 Skills
 - **Languages:** Python, R
