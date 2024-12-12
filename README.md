@@ -1,7 +1,7 @@
 # Hi there, I'm Nicole! 👋
 
 ## 📋 About Me
-I’m a Data Science Specialist with a passion for education, sports and life-long learning. You can learn more about me and view my featured work on my website, [nicolebid.github.io](https://nicolebid.github.io), or check out my project summary table below for insight into projects I've done.
+I’m a Data Science Specialist with a passion for education, sports and life-long learning. You can learn more about me and view my featured work on my website, [nicolebid.github.io](https://nicolebid.github.io), or check out the summary table below for insight into projects I've done.
 
 ## 🛠 Skills
 - **Languages:** Python, R
@@ -16,9 +16,9 @@ I’m a Data Science Specialist with a passion for education, sports and life-lo
 
 If you have any questions or ideas for collaboration, I’d love to connect! Feel free to reach out via [Linkedin](https://linkedin.com/in/nicolebidwell) or my [contact form](https://nicolebid.github.io/#contact) on my website.
 
-## 🔍 Project Summary Table 
+## 🔍 Featured Work - Summary Table 
 
-This table showcases my key projects, detailing the technologies utilized and their specific focus areas within data science.
+This table showcases my key projects, along with articles I've written, within data science and education. It outlines the focus area and main technologies utilized.  
 
 | Project       | Description                          | Focus Area         | Main Tools/Libraries      | Completion Date <br> (YYYY-MM)       | Link                        |
 |:-------------:|:------------------------------------:|:--------------------:|:----------------------------:|:------------:|:---------------------------:|
@@ -28,3 +28,5 @@ This table showcases my key projects, detailing the technologies utilized and th
 | Solar Savers: Solar Panel Cost-Effectiveness  | A dashboard application designed to assist Canadian homeowners in making informed solar panel purchasing decisions.      | Data Visualization      | Python, Dash, pandas, GeoPandas, Altair       | 2024-04   | [Repo](https://github.com/UBC-MDS/DSCI-532_2024_9_solar-savers)<br><br>[App](https://dsci-532-2024-9-solar-savers.onrender.com/) |
 | eda_mds | A Python package that kick-starts the EDA stage of machine learning projects, enhancing pandas' EDA functions with four functions that deliver insights and identify potential problems in the dataset.  | Python Package Development, EDA  | Python, pandas, GitHub Actions | 2024-02   |  [Repo](https://github.com/UBC-MDS/eda_mds)<br><br>[Vingette](https://eda-mds.readthedocs.io/en/latest/example.html)|
 | Red Wine Quality Prediction  | This project aimed to create a classification model to predict red wine quality based on its physiochemical properties. The best model showed reasonable accuracy, highlighting areas for improvement in handling outliers.  | Machine Learning, Classification, Unit Testing  | GitHub Actions, Docker, Python, pandas, scikit-learn, matplotlib, pickle, seaborn, NumPy, Altair      | 2023-12   |  [Repo](https://github.com/UBC-MDS/Red-Wine-Quality-Prediction)<br><br>[Report](https://ubc-mds.github.io/Red-Wine-Quality-Prediction/red_wine_quality_prediction.html) |
+  | Gentrification in Vancouver: Teaching Mathematics through a Social Justice Lens | An article discussing the implementation and difficulties of teaching mathematics alongside social justice with example lesson activities. | Mathematics Education & Social Justice | N/A | 2017-03 | [Article](https://drive.google.com/file/d/1cXs7TQIjLwxj3dPTwH3hieqJc2GrcnOI/view) <br> (pg. 13-15) | 
+
