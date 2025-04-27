@@ -7,7 +7,7 @@ I'm passionate about education, sports, lifelong learning, and all things data s
 - **Languages:** Python, R, SQL
 - **Databases:** MongoDB, MySQL, PostgreSQL
 - **Data Analysis:** Pandas, GeoPandas, NumPy, Tidyr, Dplyr
-- **Data Visualization:** Altair, Matplotlib, Dash, ggplot2, Shiny
+- **Data Visualization:** Altair, Matplotlib, Dash, ggplot2, Shiny, Tableau 
 - **Machine Learning:** Supervised Learning, Unsupervised Learning, Classification, Regression, Time Series Analysis, Clustering, Feature Selection and Engineering, Dimensionality Reduction
 - **Statistics:** Bayesian and Frequentist Methodologies, Hypothesis Testing, A/B Testing, Causal Inference, Regression Analysis
 - **Other Tools:** Git, GitHub Actions, Jupyter Notebook, VSCode, RStudio, Docker, AWS
