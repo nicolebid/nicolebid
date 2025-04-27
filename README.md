@@ -1,10 +1,10 @@
 # Hi there, I'm Nicole! 👋
 
 ## 📋 About Me
-I’m a Data Science Specialist with a passion for education, sports and life-long learning. You can learn more about me and view my featured work on my website, [nicolebid.github.io](https://nicolebid.github.io), or check out the summary table below for insight into projects I've done.
+I'm passionate about education, sports, lifelong learning, and all things data science! You can learn more about me and view my featured work on my [website](https://nicolebid.github.io) or check out the summary table below for insight into my projects.
 
 ## 🛠 Skills
-- **Languages:** Python, R
+- **Languages:** Python, R, SQL
 - **Databases:** MongoDB, MySQL, PostgreSQL
 - **Data Analysis:** Pandas, GeoPandas, NumPy, Tidyr, Dplyr
 - **Data Visualization:** Altair, Matplotlib, Dash, ggplot2, Shiny
@@ -14,11 +14,11 @@ I’m a Data Science Specialist with a passion for education, sports and life-lo
 
 ## 📫 Contact
 
-If you have any questions or ideas for collaboration, I’d love to connect! Feel free to reach out via [Linkedin](https://linkedin.com/in/nicolebidwell) or my [contact form](https://nicolebid.github.io/#contact) on my website.
+If you have any questions or ideas for collaboration, I’d love to connect! Feel free to reach out via [Linkedin](https://linkedin.com/in/nicolebidwell) or my website [contact form](https://nicolebid.github.io/#contact).
 
 ## 🔍 Featured Work - Summary Table 
 
-This table showcases my key projects, along with articles I've written, within data science and education. It outlines the focus area and main technologies utilized.  
+This table showcases my key projects and articles I've written within data science and education. It outlines the focus area and main technologies used.  
 
 | Project       | Description                          | Focus Area         | Main Tools/Libraries      | Completion Date <br> (YYYY-MM)       | Link                        |
 |:-------------:|:------------------------------------:|:--------------------:|:----------------------------:|:------------:|:---------------------------:|
